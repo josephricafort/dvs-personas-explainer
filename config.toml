@@ -1,0 +1,4 @@
+baseURL = 'http://dvs-personas-explainer.thelostkite.com/'
+languageCode = 'en-us'
+title = 'DVS Explainer'
+theme = "ananke"
